@@ -5,7 +5,7 @@ for($i = 0; $i <=15; $i++) {
         echo "<p style='background:yellow'>$i is the most important number.</p><br>";
         continue;
     }else {
-        echo "i value is not 5, but it is $i<br>";
+        echo "i value is not 7, but it is $i<br>";
     }
 }
 ?>
