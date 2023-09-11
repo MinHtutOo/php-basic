@@ -1,0 +1,93 @@
+[
+    {
+        "id" : "1",
+        "name" : "Waiferkolar",
+        "creator" : "0",
+        "email" : "waiferkolar@gmail.com",
+        "password" : "123123"
+    },
+    {
+        "id" : "2",
+        "name" : "Lucifer",
+        "creator" : "1",
+        "email" : "lucifer@gmail.com",
+        "password" : "123123"
+    },
+    {
+        "id" : "3",
+        "name" : "Smith",
+        "creator" : "1",
+        "email" : "smith@gmail.com",
+        "password" : "123123"
+    },
+    {
+        "id" : "4",
+        "name" : "Alex",
+        "creator" : "1",
+        "email" : "alex@gmail.com",
+        "password" : "123123"
+    },
+    {
+        "id" : "5",
+        "name" : "Karoline",
+        "creator" : "2",
+        "email" : "karoline@gmail.com",
+        "password" : "123123"
+    },
+    {
+        "id" : "6",
+        "name" : "Tony",
+        "creator" : "2",
+        "email" : "tony@gmail.com",
+        "password" : "123123"
+    },
+    {
+        "id" : "7",
+        "name" : "Tio",
+        "creator" : "2",
+        "email" : "tio@gmail.com",
+        "password" : "123123"
+    },
+    {
+        "id" : "8",
+        "name" : "Bruce",
+        "creator" : "3",
+        "email" : "bruce@gmail.com",
+        "password" : "123123"
+    },
+    {
+        "id" : "9",
+        "name" : "Bonny",
+        "creator" : "3",
+        "email" : "bonny@gmail.com",
+        "password" : "123123"
+    },
+    {
+        "id" : "10",
+        "name" : "Alice",
+        "creator" : "3",
+        "email" : "alice@gmail.com",
+        "password" : "123123"
+    },
+    {
+        "id" : "11",
+        "name" : "Mia",
+        "creator" : "4",
+        "email" : "mia@gmail.com",
+        "password" : "123123"
+    },
+    {
+        "id" : "12",
+        "name" : "Peter",
+        "creator" : "4",
+        "email" : "peter@gmail.com",
+        "password" : "123123"
+    },
+    {
+        "id" : "13",
+        "name" : "Oliver",
+        "creator" : "4",
+        "email" : "oliver@gmail.com",
+        "password" : "123123"
+    }
+]
